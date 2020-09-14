@@ -1,0 +1,30 @@
+{
+  "name": "fancylog",
+  "version": "1.0.0",
+  "description": "fancylog lets you write fancy console.logs()",
+  "main": "fancylog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathiasWP/fancylog.js.git"
+  },
+  "keywords": [
+    "fancylog",
+    "fancy",
+    "log",
+    "console",
+    "console.log",
+    "color",
+    "colorful",
+    "css",
+    "js"
+  ],
+  "author": "Mathias Picker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MathiasWP/fancylog.js/issues"
+  },
+  "homepage": "https://github.com/MathiasWP/fancylog.js#readme"
+}
