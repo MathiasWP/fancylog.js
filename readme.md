@@ -13,11 +13,11 @@
 
 ### With CDN 🌐:
 
-#### `<script src="https://cdn.jsdelivr.net/npm/fancylog@1.0.0"></script>`
+#### `<script src="https://cdn.jsdelivr.net/npm/fancylogjs@1.0.0"></script>`
 
 ### Locally 📁:
 
-#### `<script src="path/to/fancylog.js"></script>`
+#### `<script src="path/to/fancylogjs.js"></script>`
 
 &nbsp;
 
