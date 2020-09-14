@@ -23,16 +23,16 @@
 
 ## API:
 
-### fancylog(<string>, <object>)
+### `fancylog(<string>, <object>)`
 
-#### <string> info:
+#### `<string>` info:
 To divide the string parts for styling, simply declare them with <></> tags.
 To set the id of the tag, write #{id} within the first tag.
 
 To add images, simply write `<img src="src-to-image" />`.
 You can also add id's to images, simply add a #{id} anywhere within the img-tag
 
-#### <object> info:
+#### `<object>` info:
 The object sets the styling of the declared tags within the string.
 Use CSS in JS to declare properties and values.
 
