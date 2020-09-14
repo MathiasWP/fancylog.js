@@ -1,5 +1,5 @@
 /**
- * @description fancylog is a function that takes in a string and an styling-object and logs it to the console
+ * @description fancylog is a function that takes in a string and an object and logs it to the console
  * with the styling provided for the different tags.
  * @param {String} message - The message you want to log
  * @param {Object} styleObject - Object with styles for the different id's (CSS IN JS)
